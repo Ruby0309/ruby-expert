@@ -1,5 +1,5 @@
 rencana tambahan
 mengikuti kursus 
-framewrok js
+framewrok js (angular)
 php framework(laravel)
 
