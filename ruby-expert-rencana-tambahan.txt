@@ -1,4 +1,5 @@
 rencana tambahan
 mengikuti kursus 
 framewrok js
-php framework(CI)
+php framework(laravel)
+
