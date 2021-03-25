@@ -1,5 +1,4 @@
 RUBY AKAN MENJADI WEB DEVELOPER EXPERT 
-konsisten di web programming
 back-end
 front-end
 framework
@@ -7,3 +6,4 @@ API
 GIT VCS
 mysql
 Membuat web yang disukai banyak orang
+membanggakan orang tua
