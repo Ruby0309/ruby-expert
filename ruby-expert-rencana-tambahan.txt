@@ -1,5 +1,5 @@
 rencana tambahan
-mempelajari node js
 mengikuti kursus 
 framewrok js
 php framework(laravel)
+
