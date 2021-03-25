@@ -7,3 +7,4 @@ GIT VCS
 mysql
 Membuat web yang disukai banyak orang
 membanggakan orang tua
+belajar javascript 
